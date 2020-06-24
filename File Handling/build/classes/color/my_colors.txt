@@ -1,0 +1,12 @@
+5
+cool colors:
+green
+blue
+black
+purple
+
+hot colors:
+red
+yellow
+pink
+white
